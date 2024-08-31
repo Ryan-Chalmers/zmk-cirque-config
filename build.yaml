@@ -22,5 +22,3 @@ include:
     shield: cirque_left
   - board: nice_nano_v2
     shield: cirque_right
-  - board: nice_nano_v2
-    shield: settings_reset
